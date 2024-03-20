@@ -1,0 +1,8 @@
+{
+  "C_Cpp.errorSquiggles": "enabled",
+  "files.associations": {
+    "*.rmd": "markdown",
+    "iostream": "cpp",
+    "__locale": "cpp"
+  }
+}
