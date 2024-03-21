@@ -29,10 +29,10 @@ The decoding process is the reverse of the encoding process:
 2. Run the compiled program.
 3. Follow the on-screen instructions to encode or decode text files.
 
-When encoding:
+### When encoding:
 - Provide the name of the input text file to be encoded.
 - The encoded text will be saved to a file named "encoded.txt" in the same directory.
 
-When decoding:
+### When decoding:
 - Provide the name of the encoded file to be decoded.
 - Provide the name of the output file to save the decoded text.
